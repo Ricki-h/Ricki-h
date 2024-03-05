@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ricki
+- 👀 I’m interested in learn programming
+- 🌱 I’m currently learning HTML, CSS, Python and JS
+- 📫 How to reach me: rick1n.htz@gmail.com
+- ⚡ Fun fact: I like to draw too
